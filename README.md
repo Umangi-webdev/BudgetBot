@@ -230,8 +230,3 @@ ngrok http 5000
 Made with ❤️ by [Umangi Patel](https://github.com/Umangi-webdev)  
 Feel free to ⭐ this repo or contribute!
 
----
-
-## 📄 License
-
-MIT License

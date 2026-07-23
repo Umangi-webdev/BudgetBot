@@ -15,7 +15,7 @@ An intelligent, cross-platform expense tracking system where users can log daily
 Log expenses by sending messages like:
 ```
 "Spent 200 on groceries yesterday"  
-"Uber 150"  
+"Uber 150"
 "100 food"
 ```
 

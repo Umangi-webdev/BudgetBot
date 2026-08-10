@@ -5,7 +5,7 @@ An intelligent, cross-platform expense tracking system where users can log daily
 
 ## 📽 Demo Video
 
-[![Watch the demo](./frontend/src/assets/demo-thumbnail.jpg)](https://www.youtube.com/watch?v=iKhEwiE2R3o)
+[![Watch the demo](./frontend/src/assets/demo-thumbnail.jpg)](https://youtu.be/Vdg3M1Vv6FI)
 
 ---
 
